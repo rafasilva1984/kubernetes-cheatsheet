@@ -20,5 +20,10 @@ cd kubernetes-cheatsheet
 
 Sugestões de novos comandos e melhorias são bem-vindas. Sinta-se à vontade para abrir issues ou pull requests.
 
+## ☁️ Comandos Kubernetes em AWS (EKS)
+
+Para operações em clusters EKS, veja o novo arquivo:
+- [`kubernetes_aws_comandos.md`](./kubernetes_aws_comandos.md): comandos específicos para clusters Kubernetes em execução na AWS.
+
 ---
 **Mantenedor:** Rafael Silva ([LinkedIn](https://www.linkedin.com/in/rafael-silva-leader-coordenador))
